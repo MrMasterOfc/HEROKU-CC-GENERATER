@@ -1,4 +1,4 @@
-[`CLICK LIVE SITE`](https://master-heroku-cc.vercel.app/)
+[`CLICK LIVE SITE`](https://master-cc-ganerater.vercel.app/)
 
 
 <p align="center">
